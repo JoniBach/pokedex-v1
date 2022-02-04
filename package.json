@@ -21,14 +21,13 @@
     "predeploy": "npm run build",
 "deploy": "gh-pages -d build"
   },
-  "proxy": "http://localhost:5000",
   "eslintConfig": {
     "extends": [
       "react-app",
       "react-app/jest"
     ]
   },
-  "homepage": "https://github.com/JoniBach/pokedex-v1",
+  "homepage": "https://github.com/JoniBach/pokedex-v1/",
   "browserslist": {
     "production": [
       ">0.2%",
